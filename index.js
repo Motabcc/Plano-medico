@@ -1,0 +1,1 @@
+function Evento() { alert("ta funfando") }
